@@ -1,0 +1,13 @@
+C:\Users\USUARIO\Desktop\Trabajos\3er. Semestre\Programación I\C#\C#-Calculadora\bin\Debug\netcoreapp3.1\C#-Calculadora.exe
+C:\Users\USUARIO\Desktop\Trabajos\3er. Semestre\Programación I\C#\C#-Calculadora\bin\Debug\netcoreapp3.1\C#-Calculadora.deps.json
+C:\Users\USUARIO\Desktop\Trabajos\3er. Semestre\Programación I\C#\C#-Calculadora\bin\Debug\netcoreapp3.1\C#-Calculadora.runtimeconfig.json
+C:\Users\USUARIO\Desktop\Trabajos\3er. Semestre\Programación I\C#\C#-Calculadora\bin\Debug\netcoreapp3.1\C#-Calculadora.runtimeconfig.dev.json
+C:\Users\USUARIO\Desktop\Trabajos\3er. Semestre\Programación I\C#\C#-Calculadora\bin\Debug\netcoreapp3.1\C#-Calculadora.dll
+C:\Users\USUARIO\Desktop\Trabajos\3er. Semestre\Programación I\C#\C#-Calculadora\bin\Debug\netcoreapp3.1\C#-Calculadora.pdb
+C:\Users\USUARIO\Desktop\Trabajos\3er. Semestre\Programación I\C#\C#-Calculadora\obj\Debug\netcoreapp3.1\C#-Calculadora.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Trabajos\3er. Semestre\Programación I\C#\C#-Calculadora\obj\Debug\netcoreapp3.1\C#-Calculadora.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Trabajos\3er. Semestre\Programación I\C#\C#-Calculadora\obj\Debug\netcoreapp3.1\C#-Calculadora.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Trabajos\3er. Semestre\Programación I\C#\C#-Calculadora\obj\Debug\netcoreapp3.1\C#-Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Trabajos\3er. Semestre\Programación I\C#\C#-Calculadora\obj\Debug\netcoreapp3.1\C#-Calculadora.dll
+C:\Users\USUARIO\Desktop\Trabajos\3er. Semestre\Programación I\C#\C#-Calculadora\obj\Debug\netcoreapp3.1\C#-Calculadora.pdb
+C:\Users\USUARIO\Desktop\Trabajos\3er. Semestre\Programación I\C#\C#-Calculadora\obj\Debug\netcoreapp3.1\C#-Calculadora.genruntimeconfig.cache
